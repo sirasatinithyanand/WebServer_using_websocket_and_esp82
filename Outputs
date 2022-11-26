@@ -1,9 +1,0 @@
-After uploading the code into the esp82:
-open the serial monitor and wait for the esp82 to provide you with an ip address.
-connect other devices to the same network or hotspot as esp82.
-enter the ip address in the devices connected to the same network
-you will get access to the website which triggers the led on the esp82
-make sure you start capturing packets in wireshark before uploading the code 
-analyse the packets
-
-
